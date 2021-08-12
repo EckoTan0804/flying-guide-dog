@@ -8,4 +8,5 @@ Code and dataset will be released soon.
 
 ## Demo Video
 
-[![Video](assets/drone_demo_video_cover.png)](https://youtu.be/H8brgCDFK8A "Video on Youtube")
+[![Video](assets/drone_demo_video_cover.png)](https://youtu.be/lBYnu3mm6pY "Video on Youtube")
+
