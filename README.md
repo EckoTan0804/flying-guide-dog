@@ -116,7 +116,7 @@ We train 2 models on this dataset:
 
 ## Usage
 
-1. Choose a config file in `config/experiment/`. E.g. `config/experiment/segformer-b0_720x480_fp32.yaml`. You can also create your custom config file by adjusting the default config.
+1. Choose a config file in `config/experiment/`, *e.g.* `config/experiment/segformer-b0_720x480_fp32.yaml`. You can also create your custom config file by adjusting the default config.
 
 2. Run
 
