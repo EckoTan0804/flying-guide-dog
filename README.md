@@ -95,7 +95,7 @@ We create a custom traffic lights dataset named **Pedestrian and Vehicle Traffic
 
 It containes 5 classes: Others, Pedestrian-red, Pedestrian-green, Vehicle-red, and Vehicle-green. Each class contains about 300 images. Train-validation split is 3:1.
 
-<img src="/Users/EckoTan/Documents/cvhci_project/ROBIO/walkable-path-discovery-utilizing-drones/assets/traffic_light_eg.png" alt="Traffic light dataset examples" style="zoom: 67%;" />
+<img src="assets/traffic_light_eg.png" alt="Traffic light dataset examples" style="zoom: 67%;" />
 
 We train 2 models on this dataset:
 
