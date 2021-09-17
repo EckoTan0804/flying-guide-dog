@@ -1,0 +1,14 @@
+HALF_PRECISION: false
+
+
+IMAGE:
+  SIZE:
+  - 1024
+  - 512
+
+DRONE:
+  DISPLAY_INFO: false
+
+SEGMENTATION:
+  MODEL: "swaftnet"
+  PALETTE: "swaftnet_cityscapes"

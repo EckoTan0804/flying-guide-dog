@@ -1,0 +1,9 @@
+HALF_PRECISION: true
+
+IMAGE:
+  SIZE:
+  - 1024
+  - 512
+
+SEGMENTATION:
+  MODEL: "mobilenet_v3_small"
