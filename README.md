@@ -27,7 +27,7 @@ Official implementation of "**[Flying Guide Dog: Walkable Path Discovery for the
 
 The drone used in this project is **DJI Tello**.
 
-<img src="/Users/EckoTan/Documents/cvhci_project/ROBIO/walkable-path-discovery-utilizing-drones/assets/DJI-Tello.png" alt="DJI-Tello" style="zoom: 50%;" />
+<img src="assets/DJI-Tello.png" alt="DJI-Tello" style="zoom: 50%;" />
 
 
 
