@@ -4,7 +4,7 @@
 
 # Flying Guide Dog
 
-Official implementation of "**[Flying Guide Dog: Walkable Path Discovery for the Visually Impaired Utilizing Drones and Transformer-based Semantic Segmentation](https://arxiv.org/abs/2108.07007)**".
+Official implementation of paper "**[Flying Guide Dog: Walkable Path Discovery for the Visually Impaired Utilizing Drones and Transformer-based Semantic Segmentation](https://arxiv.org/abs/2108.07007)**".
 
 ![img_concat](assets/paper_banner.png)
 
