@@ -74,7 +74,7 @@ def build_swaftnet() -> nn.Module:
 
 @SEG_MODEL_REGISTRY.register("segformer-b0")
 def build_segformer_b0() -> nn.Module:
-    checkpoint = "weights/segmentation/iter_160000.pth"
+    checkpoint = "weights/segmentation/SegFormer_b0_Mapillary.pth"
     config_file = "models/segmentation/segformer.b0.768x768.mapillary.160k.py"
     model = init_segmentor(config_file, checkpoint)
     return model
